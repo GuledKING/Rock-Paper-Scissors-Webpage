@@ -1,0 +1,15 @@
+.user-choice {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+}
+
+#top-text {
+    text-align: center;
+}
+
+#bottom-text {
+    text-align: center;
+}
+
